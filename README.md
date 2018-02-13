@@ -1,2 +1,2 @@
 # Project-Files
-A collection of project files from the Udacity Data Analyst Nanodegree.
+A collection of project files, mostly from the Udacity Data Analyst Nanodegree.
